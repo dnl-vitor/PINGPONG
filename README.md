@@ -3,3 +3,6 @@ pra compilar o código fonte cê vai precisar do cmake meu dog: https://cmake.or
 
 este não é um projeto autoral, usei um vídeo como base - https://youtu.be/VLJlTaFvHo4 - e fiz algumas
 mudanças pra deixar do meu JEITO NINJA.
+
+caso já tenha as dependencias do src code, rode run.sh; do contrário anexarei um executável em 
+releases
