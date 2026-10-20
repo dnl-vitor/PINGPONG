@@ -5,4 +5,4 @@ este não é um projeto autoral, usei um vídeo como base - https://youtu.be/VLJ
 mudanças pra deixar do MEU JEITO NINJA.
 
 caso já tenha as dependencias do src code, rode run.sh(no linux) e run.bat(no windows); do contrário anexarei um executável em 
-releases. e se o executável não estiver funcionando, faz o L, to aprendendo a fazer o build
+releases. 
