@@ -12,8 +12,8 @@ Paddle player;
 Player2 player2;
 
 int main(){
-    const int scr_width = 1920;
-    const int scr_height = 1200;
+    const int scr_width = 1620;
+    const int scr_height = 800;
     const float base_ball_speed = 7.0f;
     const float base_paddle_speed = 10.0f;
 
